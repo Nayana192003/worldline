@@ -1,11 +1,4 @@
 Hello, Git!
 Update 1 from develop
 Update 2 from develop
-<<<<<<< HEAD
-<<<<<<< HEAD
 Update 3 from develop
-=======
->>>>>>> 36dfd7b (Update 2 from develop)
-=======
-Update 3 from develop
->>>>>>> 2fbb602 (Update 3 from develop)
